@@ -1,0 +1,87 @@
+# aespa – YEPPI YEPPI
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.17] Yeah-yeah-yeah-yeah (shout it out)
+[00:04.41] Oh, oh, yeah, yeah
+[00:07.88] La-la-la-la-la-la-la-la-la (oh)
+[00:11.45] La-la-la-la-la, le-le-le-le-le-le-le-le
+[00:30.95] 
+[00:15.51] 어디서나 주인공의 spot is mine
+[00:18.53] 터뜨려 flash 더, faster 캡처해봐, leggo (leggo)
+[00:22.81] 이 무대 위에 yeppi라고 해, you know
+[00:26.47] 세상은 내꺼, 내꺼, playing like a Lego
+[00:41.97] 
+[00:29.99] 봐봐 나의 엣지가, 흘러넘쳐 뚝뚝
+[00:32.69] I'm so cool, cool, 만들지 내 rule, rule, yeah
+[00:34.99] That's my 재미, just chillin', chillin', chillin' (la-la-la-la)
+[00:38.42] 자 눈 크게 떠 지금부터 시작될 mystery
+[00:42.23] 더 빠져들 걸 매일 매일 (æspa!)
+[00:52.73] 
+[00:44.98] Yeppi, you gonna love
+[00:47.05] Yeppi, you gonna love
+[00:49.54] Oh, yeppi, yeppi, happy virus
+[00:51.50] 누가 뭐래도 I'm so beautiful
+[00:53.89] Dia-ya-ya 보다 반짝이니까
+[00:57.02] I don't care 네가 예뻐라 안 해도
+[00:59.88] 난 예뻐, 예뻐
+[01:03.88] 
+[01:01.65] 난 yeppi, yeppi, 난 예쁘니까 (난 빛이나)
+[01:05.83] Happy, happy, 눈부시니까, ah
+[01:09.02] 난 yeppi, yeppi, 난 예쁘니까 (난 빛이나)
+[01:13.52] Happy, happy, 눈부시니까, ah
+[01:25.02] 
+[01:17.39] Bass, 키워 더!
+[01:18.97] 내 맘대로 연주하는 게 좋아
+[01:20.86] Now it's so hot, then we
+[01:22.74] Ba-ba-ba-ba-bang! Wa-warning
+[01:24.91] 조심해 난 danger (broom-broom)
+[01:27.35] 시동 걸 준비가 됐어
+[01:28.60] 날 원하면 더 크게 날 불러, 불러
+[01:38.10] 
+[01:31.48] 나의 맵시가, 물이 올라 더, 더
+[01:34.06] I'm so tough, tough, 있는 그대로 raw, yeah
+[01:36.38] That's our 캐미, just feel it, feel it, feel it
+[01:39.54] 자 이제부터 시작이야 우리들의 history
+[01:43.58] 빠져들 준비해, hey (æspa!)
+[01:53.58] 
+[01:46.32] Yeppi, you gonna love
+[01:48.25] Yeppi, you gonna love
+[01:50.56] Oh, yeppi, yeppi, happy virus
+[01:52.61] 누가 뭐래도 I'm so beautiful
+[01:55.15] Dia-ya-ya 보다 반짝이니까
+[01:58.35] I don't care 네가 예뻐라 안 해도
+[02:01.03] 난 예뻐, 예뻐
+[02:05.03] 
+[02:05.78] Let's see your color
+[02:08.14] that's just true, 보여줘 널
+[02:13.59] 지금 우린 마치 꿈꾸는 것 같이
+[02:17.52] I'm coming, coming to
+[02:20.45] Are you ready for the next
+[02:33.45] 
+[02:22.38] 리듬 타타, flow 타타, 오늘 끝날 때까지
+[02:25.95] Get cha, cha, 흥이 차차, 나를 따라 외쳐봐
+[02:30.23] 내가 바로 예쁜 애 옆에, 예쁜 애 예쁜 애야야야
+[02:34.03] 사람들의 수군거림 그런 건 nothing 이야
+[02:46.53] 
+[02:37.79] 월화수목금토일 난 너무나 예뻐서 바빠 (oops!)
+[02:41.86] 내가 걸어갈 이 길 위는 다 aurora 빛
+[02:45.75] Everybody, 내 line 뒤로 줄 서
+[02:48.97] Let's get started, 시작되는 party
+[03:03.47] 
+[02:52.22] I'll make it love
+[02:53.71] Yeppi, you gonna love (ooh)
+[02:56.21] Oh, yeppi, yeppi, that be fire
+[02:58.14] Don't tell me to 그게 다라고
+[03:00.56] Dia-ya-ya 보다 반짝이니까
+[03:03.72] I don't care 네가 예뻐라 안 해도
+[03:06.42] 난 yeppi, yeppi, 예뻐
+[03:08.33] 예뻐라 안 해도, 안 해도, 말 안 해도
+[03:12.11] 난 예뻐, 예뻐
+[03:16.11] 
+[03:14.27] 난 yeppi, yeppi, 난 예쁘니까 (난 빛이나)
+[03:18.32] Happy, happy, 눈부시니까, ah
+[03:21.93] 난 yeppi, yeppi, 난 예쁘니까 (난 빛이나)
+[03:26.03] Happy, happy, 눈부시니까, ah
+```
