@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "YEPPI YEPPI",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-20T09:34:30.410418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YEPPI YEPPI",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/01_YEPPI_YEPPI_aespa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YEPPI YEPPI",
+      "artist": "aespa (에스파)",
+      "has_synced": true,
+      "path": "select/02_YEPPI_YEPPI_aespa_(에스파).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YEPPI YEPPI",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_YEPPI_YEPPI_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YEPPI YEPPI (예삐 예삐)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_YEPPI_YEPPI_(예삐_예삐)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YEPPI YEPPI",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_YEPPI_YEPPI_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YEPPI YEPPI",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_YEPPI_YEPPI_aespa.txt"
+    }
+  ]
+}
